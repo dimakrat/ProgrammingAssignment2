@@ -39,4 +39,3 @@ CacheSolve <- function(x, ...) {
     m
 }
 
-## I used samples in iscussion forums.
